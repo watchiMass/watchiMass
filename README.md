@@ -1,14 +1,14 @@
-# Hi 👋, I'm Théodore Massima
+#### Hi 👋, I'm Théodore Massima
 
-I am a Platform Engineer passionate about building resilient systems, cloud infrastructure and distributed systems. Currently geeked out on database architectures and API development !
-
----
-
-## About me
+A Platform Engineer passionate about building resilient systems, cloud infrastructure and distributed systems. Currently geeked out on database architectures and API development !
 
 ---
 
-## Interests
+#### About me
+
+---
+
+#### Interests
 
 - Platform Engineering & SRE
 - Infrastructure as Code with Terraform
@@ -24,15 +24,10 @@ I am a Platform Engineer passionate about building resilient systems, cloud infr
 
 ---
 
-## Certifications
-
-- CKA
-- Terraform Associate 004
-- AWS Certified Solutions Architect Associate
 
 ---
 
-## Find me
+##### Find me
 
 📍 Paris, France
 
