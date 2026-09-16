@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi 👋, I'm Théodore Massima
 
-<!--
-**watchiMass/watchiMass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Platform Engineer passionate about building resilient systems, cloud infrastructure and distributed systems. Currently geeked out on database architectures and API development !
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+- ☁️ Platform Engineering & SRE
+- 🚀 Infrastructure as Code with Terraform
+- ☸️ Kubernetes & container orchestration
+- 🔄 GitOps & CI/CD
+- 🐳 Docker & Linux
+- 📊 Observability & monitoring
+- 🔐 Infrastructure security
+- 💰 Cloud infrastructure & FinOps
+- 🤖 Infrastructure supporting LLM workloads
+- 🌍 AWS
+- 🐍 Python · ☕ Java · 🐹 Go
+
+---
+
+## Interests
+
+- Platform Engineering & SRE
+- Infrastructure as Code with Terraform
+- Kubernetes & container orchestration
+- Observability 
+- Cloud Security
+- AWS & GCP
+- 🐍 Python · ☕ Java · 🐹 Go
+- Distributed
+- Databases
+- ❤️ Open source
+- 🐧 Linux
+
+---
+
+## Certifications
+
+- 🏅 Terraform Associate 004
+- ☸️ CKA
+- 🌍 AWS
+
+---
+
+## Find me
+
+📍 Paris, France
+
+💼 [LinkedIn](www.linkedin.com/in/théodore-massima)
+
+🌐 [Blog](https://jerielmass.com/)
+
+📧 massimatheodorejeriel@gmail.com
+
+🐙 [GitHub](https://github.com/watchiMass)
