@@ -6,18 +6,6 @@ I am a Platform Engineer passionate about building resilient systems, cloud infr
 
 ## About me
 
-- ☁️ Platform Engineering & SRE
-- 🚀 Infrastructure as Code with Terraform
-- ☸️ Kubernetes & container orchestration
-- 🔄 GitOps & CI/CD
-- 🐳 Docker & Linux
-- 📊 Observability & monitoring
-- 🔐 Infrastructure security
-- 💰 Cloud infrastructure & FinOps
-- 🤖 Infrastructure supporting LLM workloads
-- 🌍 AWS
-- 🐍 Python · ☕ Java · 🐹 Go
-
 ---
 
 ## Interests
