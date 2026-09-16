@@ -2,8 +2,6 @@
 
 A Platform Engineer passionate about building resilient systems, cloud infrastructure and distributed systems. Currently geeked out on database architectures and API development !
 
----
-
 #### About me
 
 ---
@@ -22,11 +20,6 @@ A Platform Engineer passionate about building resilient systems, cloud infrastru
 - ❤️ Open source
 - 🐧 Linux
 
----
-
-
----
-
 ##### Find me
 
 📍 Paris, France
@@ -36,5 +29,3 @@ A Platform Engineer passionate about building resilient systems, cloud infrastru
 🌐 [Blog](https://jerielmass.com/)
 
 📧 massimatheodorejeriel@gmail.com
-
-🐙 [GitHub](https://github.com/watchiMass)
