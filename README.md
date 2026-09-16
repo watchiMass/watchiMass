@@ -26,9 +26,9 @@ I am a Platform Engineer passionate about building resilient systems, cloud infr
 
 ## Certifications
 
-- 🏅 Terraform Associate 004
-- ☸️ CKA
-- 🌍 AWS
+- CKA
+- Terraform Associate 004
+- AWS Certified Solutions Architect Associate
 
 ---
 
