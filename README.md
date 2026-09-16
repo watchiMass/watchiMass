@@ -2,10 +2,6 @@
 
 A Platform Engineer passionate about building resilient systems, cloud infrastructure and distributed systems. Currently geeked out on database architectures and API development !
 
-#### About me
-
----
-
 #### Interests
 
 - Platform Engineering & SRE
@@ -20,7 +16,7 @@ A Platform Engineer passionate about building resilient systems, cloud infrastru
 - ❤️ Open source
 - 🐧 Linux
 
-##### Find me
+#### Find me
 
 📍 Paris, France
 
