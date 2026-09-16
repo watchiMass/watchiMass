@@ -10,7 +10,7 @@ A Platform Engineer passionate about building resilient systems, cloud infrastru
 - Observability 
 - Cloud Security
 - AWS & GCP
-- 🐍 Python · ☕ Java · 🐹 Go
+-  Python · Java · Go
 - Distributed
 - Databases
 - ❤️ Open source
